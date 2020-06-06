@@ -17,5 +17,11 @@ module.exports = {
     
     //유저
     NO_MY_RECIPE : "내 레시피 없음",
-    GET_MY_RECIPE_COMPLETE : "내 레시피 불러오기 성공"
+    GET_MY_RECIPE_COMPLETE : "내 레시피 불러오기 성공",
+
+    //레시피
+    RECIPE_ADD_OK : "레시피 추가에 성공했습니다.",
+    RECIPE_LIKE_OK: "레시피를 좋아요 했습니다.",
+    RECIPE_LIKE_FAIL: "레시피 좋아요에 실패했습니다.",
+    RECIPE_SCRAP_OK : "레시피 스크랩에 성공했습니다."
 }
